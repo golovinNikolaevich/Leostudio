@@ -1,0 +1,27 @@
+{
+  "name": "leostudio",
+  "version": "1.0.0",
+  "description": "Leostudio Landing Page",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "leo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golovinNikolaevich/Leostudio.git"
+  },
+  "keywords": [
+    "landing",
+    "leostudio"
+  ],
+  "author": "Golovin Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/golovinNikolaevich/Leostudio/issues"
+  },
+  "homepage": "https://github.com/golovinNikolaevich/Leostudio#readme"
+}
