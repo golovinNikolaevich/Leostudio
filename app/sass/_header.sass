@@ -3,11 +3,25 @@
 // navigation
 .header
 	text-transform: uppercase
+	background: lightblue
 	> nav
 		padding: 0
-	#navbarNav
-		justify-content: center
+	.navbar-brand
+		width: 100%
+		max-width: 175px
+		height: 100px
+		background: url('../img/logo_leodigital.png') no-repeat
+		background-size: contain
+
+#navbarNav
+	justify-content: center
 	.navbar-nav
 		width: 100%
-		justify-content: space-around
 		max-width: 635px
+		justify-content: space-around
+	.nav-link
+		padding: .5rem 0
+		font-weight: lighter
+		color: white
+	.nav-link:hover
+		border-bottom: 1px solid white
